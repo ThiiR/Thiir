@@ -18,10 +18,5 @@
   <img align="left" width="42%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiir&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "Thiir" />
 </div>
 
-###
-
-<div>
-<a href="https://www.linkedin.com/in/thiago-rodrigues-18a653250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 
